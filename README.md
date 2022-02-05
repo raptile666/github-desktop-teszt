@@ -1,2 +1,2 @@
 # desktop-teszt
- GitHub desktop tesztelése
+ GitHub desktop tesztelése alkalmazáson belül
